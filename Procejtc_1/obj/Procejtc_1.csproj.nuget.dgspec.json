@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\User\\Документи\\GitHub\\Homeworks\\Homework_7\\Procejtc_1\\Procejtc_1.csproj": {}
+    "C:\\OneDrive\\Документи\\GitHub\\Homework_7\\Procejtc_1\\Procejtc_1.csproj": {}
   },
   "projects": {
-    "D:\\User\\Документи\\GitHub\\Homeworks\\Homework_7\\Procejtc_1\\Procejtc_1.csproj": {
+    "C:\\OneDrive\\Документи\\GitHub\\Homework_7\\Procejtc_1\\Procejtc_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\User\\Документи\\GitHub\\Homeworks\\Homework_7\\Procejtc_1\\Procejtc_1.csproj",
+        "projectUniqueName": "C:\\OneDrive\\Документи\\GitHub\\Homework_7\\Procejtc_1\\Procejtc_1.csproj",
         "projectName": "Procejtc_1",
-        "projectPath": "D:\\User\\Документи\\GitHub\\Homeworks\\Homework_7\\Procejtc_1\\Procejtc_1.csproj",
-        "packagesPath": "C:\\Users\\Taras\\.nuget\\packages\\",
-        "outputPath": "D:\\User\\Документи\\GitHub\\Homeworks\\Homework_7\\Procejtc_1\\obj\\",
+        "projectPath": "C:\\OneDrive\\Документи\\GitHub\\Homework_7\\Procejtc_1\\Procejtc_1.csproj",
+        "packagesPath": "C:\\Users\\shent\\.nuget\\packages\\",
+        "outputPath": "C:\\OneDrive\\Документи\\GitHub\\Homework_7\\Procejtc_1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Taras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
