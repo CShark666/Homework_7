@@ -1,0 +1,15 @@
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\bin\Debug\net8.0\Procejtc_1.exe
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\bin\Debug\net8.0\Procejtc_1.deps.json
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\bin\Debug\net8.0\Procejtc_1.runtimeconfig.json
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\bin\Debug\net8.0\Procejtc_1.dll
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\bin\Debug\net8.0\Procejtc_1.pdb
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.AssemblyInfoInputs.cache
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.AssemblyInfo.cs
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.csproj.CoreCompileInputs.cache
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.sourcelink.json
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.dll
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\refint\Procejtc_1.dll
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.pdb
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\Procejtc_1.genruntimeconfig.cache
+D:\User\Документи\GitHub\Homeworks\Homework_7\Procejtc_1\obj\Debug\net8.0\ref\Procejtc_1.dll
