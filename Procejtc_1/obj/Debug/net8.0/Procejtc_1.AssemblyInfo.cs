@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Procejtc_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96fa487a26db1c6a9e3958c661dbf815b521703e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b75b4cb83dd19e1908a68708890474424257b5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Procejtc_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Procejtc_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

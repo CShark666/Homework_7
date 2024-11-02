@@ -34,15 +34,12 @@ class Program
     {
         while (true)
         {
-
-            barberReady.WaitOne();
-
             int visitorId;
             lock (chairLock)
             {
                 if (waitingRoom.Count > 0)
                 {
-                    visitorId = waitingRoom.Dequeue(); 
+                    visitorId = waitingRoom.Dequeue();
                     chairsAvailable.Release();
                 }
                 else
@@ -52,7 +49,7 @@ class Program
             }
 
             Console.WriteLine($"Перукар стриже відвідувача {visitorId}.");
-            Thread.Sleep(3000);
+            Thread.Sleep(10000);
             Console.WriteLine($"Відвідувач {visitorId} пострижений і покидає перукарню.");
         }
     }
@@ -69,9 +66,7 @@ class Program
                 waitingRoom.Enqueue(visitorId);
             }
             Console.WriteLine($"Відвідувач {visitorId} чекає на свою чергу.");
-
-
-            barberReady.Release();
+            if (barberReady.WaitOne()) barberReady.Release();
         }
         else
         {
